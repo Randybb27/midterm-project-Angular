@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.joke {
+    text-align: center;
+    border: 3px;
+    border-style: dashed;
+    border-color: red;
+    border-radius: 10px;
+    font-size: 30px;
+}

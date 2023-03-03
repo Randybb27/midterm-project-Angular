@@ -1,0 +1,13 @@
+.work {
+    text-align: center;
+    border: 5px;
+    border-style: dashed;
+    border-color: red;
+    padding: 50px;
+    margin: 120px;
+}
+
+.past {
+    font-size: 20px;
+    
+}

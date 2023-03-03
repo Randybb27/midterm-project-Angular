@@ -1,0 +1,12 @@
+.job{
+    font-size: 30px;
+} 
+
+.form {
+    text-align: center;
+    border: 5px;
+    border-style: dashed;
+    border-color: red;
+    padding: 50px;
+    margin: 120px;
+}

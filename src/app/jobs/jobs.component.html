@@ -1,0 +1,8 @@
+<app-navbar></app-navbar>
+<div class ="work">
+<h1>Work History</h1>
+<div class ="past">
+    <p *ngFor="let j of pastJobs">
+        <a [routerLink] = "['/jobs', j.id]">{{j.title}}</a>
+    </p>
+</div>

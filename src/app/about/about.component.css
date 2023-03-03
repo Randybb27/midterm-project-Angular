@@ -1,0 +1,10 @@
+.about {
+    text-align: left;
+    border: 5px;
+    border-style: dashed;
+    border-color: red;
+    border-radius: 10px;
+    padding: 35px;
+    padding-top: 25px;
+    
+}
